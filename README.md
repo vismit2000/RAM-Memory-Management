@@ -51,36 +51,36 @@ Select an option:
 9. Press 0 to exit
 ```
 
-**O/P:**
-Select an option: 1
-The sequence number of the newly created list is: n
-Enter key value to be inserted in the newly created list-n: *here user inputs integer m*
+**O/P:**  
+Select an option: 1  
+The sequence number of the newly created list is: n  
+Enter key value to be inserted in the newly created list-n: *here user inputs integer m*  
 Program outputs `SUCCESS` or `FAILURE: MEMORY NOT AVAILABLE`.
 
-**Again Menu is displayed:**
-Select an option: 2
-List you want to insert in: *here user inputs list number n*
-Enter the key value: *here user inputs integer m*
-Program outputs `SUCCESS` or `FAILURE: MEMORY NOT AVAILABLE`.
+**Again Menu is displayed:**  
+Select an option: 2  
+List you want to insert in: *here user inputs list number n*  
+Enter the key value: *here user inputs integer m*  
+Program outputs `SUCCESS` or `FAILURE: MEMORY NOT AVAILABLE`.  
 
-**Again Menu is displayed:**
-Select an option: 3
-List you want to delete from: *here user inputs list number n*
-Enter the key value: *here user inputs integer m*
+**Again Menu is displayed:**  
+Select an option: 3  
+List you want to delete from: *here user inputs list number n*  
+Enter the key value: *here user inputs integer m*  
 Program outputs `SUCCESS` or `FAILURE: ELEMENT NOT THERE / LIST EMPTY`.
 
-**Again Menu is displayed:**
-Select an option: 4
-Program outputs: Total number of nodes in all lists are M.
+**Again Menu is displayed:**  
+Select an option: 4  
+Program outputs: Total number of nodes in all lists are M.  
 
-**Again Menu is displayed:**
-Select an option: 5
-Enter the list number: *here user inputs list number n*
+**Again Menu is displayed:**  
+Select an option: 5  
+Enter the list number: *here user inputs list number n*  
 Program outputs: Total number of nodes in list n are M. 
 
-**Again Menu is displayed:**
-Select an option: 6
-Program outputs all the lists present in memory (or array in our case) in following format.
+**Again Menu is displayed:**  
+Select an option: 6  
+Program outputs all the lists present in memory (or array in our case) in following format.  
 
 Elements of list-1 are:
 
@@ -98,18 +98,16 @@ Elements of list-2 are:
 | 6 | 22 | 19 |
 | 5 | NIL | 7 |
 
-**Again Menu is displayed:**
-Select an option: 7
-Program outputs all nodes of a free list in following format.
+**Again Menu is displayed:**  
+Select an option: 7  
+Program outputs all nodes of a free list in following format.  
 
-Elements of free list are:
+Elements of free list are:  
 `[16, 1, 10]`
 
-**Again Menu is displayed:**
-
-Select an option: 8
-
-Here the program performs defragmentation and outputs SUCCESS / FAILURE.
+**Again Menu is displayed:**  
+Select an option: 8  
+Here the program performs defragmentation and outputs SUCCESS / FAILURE.  
 
 **Note:** Defragmentation does not require all nodes of a particular list to be stored contiguously. Rather, all
 allocated nodes of all the lists should be stored contiguously. 
