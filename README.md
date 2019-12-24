@@ -106,7 +106,9 @@ Elements of free list are:
 `[16, 1, 10]`
 
 **Again Menu is displayed:**
+
 Select an option: 8
+
 Here the program performs defragmentation and outputs SUCCESS / FAILURE.
 
 **Note:** Defragmentation does not require all nodes of a particular list to be stored contiguously. Rather, all
